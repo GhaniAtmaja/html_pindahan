@@ -47,27 +47,27 @@
                                 <!-- mainmenu begin -->
                                 <ul id="mainmenu">
                                     <li>
-                                        <a href="03_grey-index-2.ppp>Home<span></span></a>
+                                        <a href="03_grey-index-2.php">Home<span></span></a>
                                     </li>
                                     <li>
-                                        <a href="03_grey-explore.ppp>Explore<span></span></a>
+                                        <a href="03_grey-explore.php">Explore<span></span></a>
                                         <!-- <ul>
-                                            <li><a href="03_grey-explore.ppp>Explore</a></li>
-                                            <li><a href="03_grey-explore-music-nft.ppp>New: Music NFT</a></li>
-                                            <li><a href="03_grey-collection.ppp>Collections</a></li>
-                                            <li><a href="03_grey-live-auction.ppp>Live Auction</a></li>
-                                            <li><a href="03_grey-item-details.ppp>Item Details</a></li>
-                                            <li><a href="03_grey-help-center.ppp>Help Center</a></li>
+                                            <li><a href="03_grey-explore.php>Explore</a></li>
+                                            <li><a href="03_grey-explore-music-nft.php>New: Music NFT</a></li>
+                                            <li><a href="03_grey-collection.php>Collections</a></li>
+                                            <li><a href="03_grey-live-auction.php>Live Auction</a></li>
+                                            <li><a href="03_grey-item-details.php>Item Details</a></li>
+                                            <li><a href="03_grey-help-center.php>Help Center</a></li>
                                         </ul> -->
                                     </li>
                                     <li>
-                                        <a href="03_grey-author.ppp>Author<span></span></a>
+                                        <a href="03_grey-author.php">Author<span></span></a>
                                         <ul>
-                                            <li><a href="03_grey-author.ppp>Author</a></li>
-                                            <li><a href="profile.ppp>Profile</a></li>
-                                            <li><a href="03_grey-wallet.ppp>Wallet</a></li>
-                                            <!-- <li><a href="03_grey-create-options.ppp>Create</a></li> -->
-                                            <li><a href="03_grey-login.ppp>Login</a></li>
+                                            <li><a href="03_grey-author.php">Author</a></li>
+                                            <li><a href="profile.php">Profile</a></li>
+                                            <li><a href="03_grey-wallet.php">Wallet</a></li>
+                                            <!-- <li><a href="03_grey-create-options.php>Create</a></li> -->
+                                            <li><a href="03_grey-login.php">Login</a></li>
                                         </ul>
                                     </li>                                    
                                     <!-- <li>

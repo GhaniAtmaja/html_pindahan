@@ -167,7 +167,7 @@
                                         <div class="pull-left">
                                             <a href="./index.php">
                                                 <!-- <button class="btn btn-primary btn-lg">Register</button> -->
-                                                <input type="submit" name="Pelanggan" value="Pelanggan" />
+                                                <input type="submit" name="Pelanggan" value="Register" />
                                             </a>
                                         </div>
 

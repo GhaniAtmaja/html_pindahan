@@ -80,7 +80,7 @@
                                 </ul>
                                 <!-- mainmenu close -->
                                 <div class="menu_side_area">
-                                <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a>
+                                <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Logout</span></a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
@@ -168,10 +168,10 @@
                             <div class="nft__item style-2">
                                 <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="16" data-hour="8"></div> -->
                                 <div class="author_list_pp">
-                                    <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Monica Lucas">                                    
+                                    <!-- <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Monica Lucas">                                    
                                         <img class="lazy" src="images/author/author-1.jpg" alt="">
                                         <i class="fa fa-check"></i>
-                                    </a>
+                                    </a> -->
                                 </div>
                                 <div class="nft__item_wrap">
                                     <div class="nft__item_extra">
@@ -259,10 +259,10 @@
                             <div class="nft__item style-2">
                                 <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="14" data-hour="8"></div> -->
                                 <div class="author_list_pp">
-                                    <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Ida Chapman">                                    
+                                    <!-- <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Ida Chapman">                                    
                                         <img class="lazy" src="images/author/author-11.jpg" alt="">
                                         <i class="fa fa-check"></i>
-                                    </a>
+                                    </a> -->
                                 </div>
                                 <div class="nft__item_wrap">
                                     <div class="nft__item_extra">

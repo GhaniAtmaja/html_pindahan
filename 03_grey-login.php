@@ -71,6 +71,10 @@
                                         <!-- <li><a href="03_grey-create-options.php">Create</a></li> -->
                                         <li><a href="03_grey-login.php">Login</a></li>
                                     </ul>
+                                </li>
+                                <li>
+                                <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a>
+                                <span id="menu-btn"></span>
                                 </li>                                    
                                 <!-- <li>
                                     <a href="#">Stats<span></span></a>
@@ -80,10 +84,9 @@
                                     </ul>
                                 </li> 
                             </ul>
-                            <!-- mainmenu close -->
+                            mainmenu close -->
                             <div class="menu_side_area">
-                            <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a>
-                                <span id="menu-btn"></span>
+                            
                             </div>
                         </div>
                     </div>

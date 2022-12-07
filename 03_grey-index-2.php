@@ -66,7 +66,7 @@
                                         <li><a href="profile.php">Profile</a></li>
                                         <li><a href="03_grey-wallet.php">Wallet</a></li>
                                         <!-- <li><a href="03_grey-create-options.php">Create</a></li> -->
-                                        <li><a href="03_grey-login.php">Login</a></li>
+                                        <!-- <li><a href="03_grey-login.php">Login</a></li> -->
                                     </ul>
                                 </li>                                    
                                 <!-- <li>
@@ -79,7 +79,7 @@
                             </ul>
                             <!-- mainmenu close -->
                             <div class="menu_side_area">
-                                <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a>
+                                <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Logout</span></a>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>

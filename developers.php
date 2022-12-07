@@ -17,7 +17,8 @@ function fetch_data($db, $tableName, $columns){
 
 $columnName = implode(", ", $columns);
 // $query = "SELECT ".$columnName." FROM $tableName"."WHERE t ORDER BY id DESC";
-$query = "SELECT t.T_STATUS, t.T_TGL, jk.JK_JUDUL FROM transaksi AS T, jasa_karya AS jk WHERE t.Jasa_Karya_JK_ID = jk.JK_ID ORDER BY jk.JK_ID DESC";
+$query = "SELECT t.T_ID, t.T_STATUS, t.T_TGL, jk.JK_JUDUL, t.Jasa_Karya_JK_ID, t.Pelanggan_P_ID   FROM transaksi AS T, jasa_karya AS jk, pelanggan AS p WHERE t.Jasa_Karya_JK_ID = jk.JK_ID AND P.P_ID = T.Pelanggan_P_ID ORDER BY jk.JK_ID DESC";
+// $query = "SELECT t.T_STATUS, t.T_TGL, jk.Jasa_Karya_ID FROM transaksi AS T, jasa_karya AS jk, pelanggan AS p WHERE t.Jasa_Karya_JK_ID = jk.JK_ID ORDER BY jk.JK_ID DESC";
 $result = $db->query($query);
 
 if($result== true){ 

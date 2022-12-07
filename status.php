@@ -21,6 +21,13 @@ include("developers.php");
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-04.css" rel="stylesheet" type="text/css" />
     <link href="css/coloring.css" rel="stylesheet" type="text/css" />
+    <style>
+ .table, th, td {
+  border:10px solid white;
+  background-color: 100% solid yellow;
+  color: aliceblue;
+}
+</style>
 </head>
 
 <body class="dark-scheme de-grey">
@@ -83,7 +90,7 @@ include("developers.php");
                             </ul>
                             <!-- mainmenu close -->
                             <div class="menu_side_area">
-                            <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a>
+                            <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>logout</span></a>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
@@ -116,20 +123,41 @@ include("developers.php");
          
             <!DOCTYPE html>
 <html>
+    
 <head>
   <link rel="stylesheet" href="css/bootstrap.min.css">
+
 </head>
 <body>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+<div class="spacer-10"></div>
+
 <div class="container">
  <div class="row">
    <div class="col-sm-8">
     <?php echo $deleteMsg??''; ?>
     <div class="table-responsive">
-    <div class="spacer-10">
-    <table class="table table-bordered">
-       <thead><tr><th>ID</th>
-         <th>Status</th>
-         <th>Tanggal</th>
+    <table class="table">
+       <thead><tr><th>ID Transaksi</th>
+         <th>Status Transaksi</th>
+         <th>Tanggal Pembayaran</th>
          <th>ID Pelanggan</th>
          <th>ID Karya</th>
     </thead>
@@ -140,7 +168,7 @@ include("developers.php");
       foreach($fetchData as $data){
     ?>
       <tr>
-      <td><?php echo $sn; ?></td>
+      <!-- <td><?//php echo $sn; ?></td> -->
       <td><?php echo $data['T_ID']??''; ?></td>
       <td><?php echo $data['T_STATUS']??''; ?></td>
       <td><?php echo $data['T_TGL']??''; ?></td>

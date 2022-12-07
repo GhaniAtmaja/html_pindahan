@@ -67,7 +67,7 @@
                                             <li><a href="profile.php">Profile</a></li>
                                             <li><a href="03_grey-wallet.php">Wallet</a></li>
                                             <!-- <li><a href="03_grey-create-options.php>Create</a></li> -->
-                                            <li><a href="03_grey-login.php">Login</a></li>
+                                            <!-- <li><a href="03_grey-login.php">Login</a></li> -->
                                         </ul>
                                     </li>                                    
                                     <!-- <li>
@@ -80,7 +80,7 @@
                                 </ul>
                                 <!-- mainmenu close -->
                                 <div class="menu_side_area">
-                                <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a>
+                                <!-- <a href="03_grey-login.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Login</span></a> -->
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
@@ -171,7 +171,7 @@
                                         </div>
 
                                         <div class="spacer-40"></div>
-                                        <h6>Properties</h6>
+                                        <!-- <h6>Properties</h6>
                                         <div class="row gx-2">
                                             <div class="col-lg-4 col-md-6 col-sm-6">
                                                 <a href="#" class="nft_attr">
@@ -238,9 +238,9 @@
                                             </div>                                   
                                         </div>
                                         <div class="spacer-30"></div>
-                                    </div>
+                                    </div> -->
 
-                                    <div class="tab-2">
+                                    <!-- <div class="tab-2">
                                         <div class="p_list">
                                             <div class="p_list_pp">
                                                 <a href="03_grey-author.ppp>
@@ -292,7 +292,7 @@
                                                 <span>by <b>Lori Hart</b> at 6/12/2021, 12:57 AM</span>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     
                                     <div class="tab-3">
                                         <div class="p_list">
@@ -369,13 +369,13 @@
                                 <div class="nft-item-price"><!--<img src="images/misc/ethereum.svg" alt="">--><span>Rp. 350.000</span>.</div>
 
                                 <!-- Button trigger modal -->
-                                <a href="checkout.php class="btn-main btn-lg" data-bs-toggle="modal" data-bs-target="#buy_now">
+                                <a href="checkout.php" class="btn-main btn-lg" data-bs-toggle="modal" data-bs-target="#buy_now">
                                   Request
                                 </a>
                                 &nbsp;
-                                <a href="03_grey-author.php class="btn-main btn-lg btn-light" data-bs-toggle="modal" data-bs-target="#place_a_bid">
+                                <!-- <a href="03_grey-author.php class="btn-main btn-lg btn-light" data-bs-toggle="modal" data-bs-target="#place_a_bid">
                                   Chat
-                                </a>
+                                </a> -->
                                 
                             </div>
                                 

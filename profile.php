@@ -14,6 +14,7 @@
     <link id="bootstrap" href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/plugins.css" rel="stylesheet" type="text/css" />    
     <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/profile.css">
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-04.css" rel="stylesheet" type="text/css" />
     <link href="css/coloring.css" rel="stylesheet" type="text/css" />
@@ -129,20 +130,20 @@
                                                         <?php
                                                         include('getUserData.php');
                                                         $userData = getData();
-                                                        echo ' <h3>Username</h3>
-                                                            <h5>'.$userData[1].'</h5>
-                                                        <h3>Bio</h3>
-                                                        <h5>'.$userData[4].'</h5>
+                                                        echo ' <h3 class="label">Username</h3>
+                                                            <h5 class="data-desc">'.$userData[1].'</h5>
+                                                        <h3 class="label">Bio</h3>
+                                                        <h5 class="data-desc">'.$userData[4].'</h5>
 
                                                         <div class="spacer-20"></div>
 
-                                                        <h3>Email Address*</h3>
-                                                        <h5>'.$userData[2].'</h5>
+                                                        <h3 class="label">Email Address*</h3>
+                                                        <h5 class="data-desc">'.$userData[2].'</h5>
 
                                                         <div class="spacer-20"></div>
 
-                                                        <h3><i></i> Phone Number</h3>
-                                                        <h5>'.$userData[3].'</h5>'
+                                                        <h3 class="label"><i></i> Phone Number</h3>
+                                                        <h5 class="data-desc">'.$userData[3].'</h5>'
 
                                                         ?>
     

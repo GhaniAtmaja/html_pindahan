@@ -1,12 +1,15 @@
+<?php
+include("developers.php");
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
     <title>Krei</title>
-    <link rel="icon" href="images/icon-red.png" type="image/gif" sizes="16x16">
+    <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="Gigaland - NFT Marketplace Website Template" name="description" />
+    <meta content="Krei" name="description" />
     <meta content="" name="keywords" />
     <meta content="" name="author" />
     <!-- CSS Files
@@ -14,17 +17,15 @@
     <link id="bootstrap" href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/plugins.css" rel="stylesheet" type="text/css" />    
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <link href="css/de-grey.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="./css/white-space.css">
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-04.css" rel="stylesheet" type="text/css" />
     <link href="css/coloring.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="./css/button.css">
 </head>
-
 
 <body class="dark-scheme de-grey">
     <div id="wrapper">
-		
+
         <!-- header begin -->
         <header class="transparent">
             <div class="container">
@@ -35,7 +36,7 @@
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="03_grey-index.ppp>
+                                    <a href="03_grey-index.php">
                                         <img alt="" src="images/logo-3.png" />
                                     </a>
                                 </div>
@@ -49,36 +50,36 @@
                             <!-- mainmenu begin -->
                             <ul id="mainmenu">
                                 <li>
-                                    <a href="03_grey-index-2.ppp>Home<span></span></a>
+                                    <a href="03_grey-index-2.php">Home<span></span></a>
                                 </li>
                                 <li>
-                                    <a href="03_grey-explore.ppp>Explore<span></span></a>
+                                    <a href="03_grey-explore.php">Explore<span></span></a>
                                     <!-- <ul>
-                                        <li><a href="03_grey-explore.ppp>Explore</a></li>
-                                        <li><a href="03_grey-explore-music-nft.ppp>New: Music NFT</a></li>
-                                        <li><a href="03_grey-collection.ppp>Collections</a></li>
-                                        <li><a href="03_grey-live-auction.ppp>Live Auction</a></li>
-                                        <li><a href="03_grey-item-details.ppp>Item Details</a></li>
-                                        <li><a href="03_grey-help-center.ppp>Help Center</a></li>
+                                        <li><a href="03_grey-explore.php">Explore</a></li>
+                                        <li><a href="03_grey-explore-music-nft.php">New: Music NFT</a></li>
+                                        <li><a href="03_grey-collection.php">Collections</a></li>
+                                        <li><a href="03_grey-live-auction.php">Live Auction</a></li>
+                                        <li><a href="03_grey-item-details.php">Item Details</a></li>
+                                        <li><a href="03_grey-help-center.php">Help Center</a></li>
                                     </ul> -->
                                 </li>
                                 <li>
-                                    <a href="03_grey-author.ppp>Author<span></span></a>
+                                    <a href="03_grey-author.php">Author<span></span></a>
                                     <ul>
-                                        <li><a href="03_grey-author.ppp>Author</a></li>
-                                        <li><a href="profile.php>Profile</a></li>
-                                        <li><a href="03_grey-wallet.php>Wallet</a></li>
-                                        <!-- <li><a href="03_grey-create-options.php>Create</a></li> -->
-                                        <li><a href="03_grey-login.php>Login</a></li>
+                                        <li><a href="03_grey-author.php">Author</a></li>
+                                        <li><a href="profile.php">Profile</a></li>
+                                        <li><a href="03_grey-wallet.php">Wallet</a></li>
+                                        <!-- <li><a href="03_grey-create-options.php">Create</a></li> -->
+                                        <li><a href="03_grey-login.php">Login</a></li>
                                     </ul>
                                 </li>                                    
                                 <!-- <li>
                                     <a href="#">Stats<span></span></a>
                                     <ul>
-                                        <li><a href="03_grey-activity.php>Activity</a></li>
-                                        <li><a href="03_grey-rankings.php>Rankings</a></li>
+                                        <li><a href="03_grey-activity.php">Activity</a></li>
+                                        <li><a href="03_grey-rankings.php">Rankings</a></li>
                                     </ul>
-                                </li> 
+                                </li> -->
                             </ul>
                             <!-- mainmenu close -->
                             <div class="menu_side_area">
@@ -92,52 +93,83 @@
         </div>
         </header>
         <!-- header close -->
-        
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
-			<section class="full-height relative no-top no-bottom vertical-center" data-bgimage="url(images/background/6.jpg) top" data-stellar-background-ratio=".5">
-                <div class="overlay-gradient t50">
-					<div class="center-y relative">
-						<div class="container">
-							<div class="row align-items-center">
-								
-								<div class="col-lg-4 offset-lg-4 wow fadeIn bg-color" data-wow-delay=".5s">
-									<div class="box-rounded padding40">
-										<h3 class="mb10">Log In</h3>
-										<p>Login using an existing account or create a new account</p><a href="register.php">REGISTER</a>
-										<form name="contactForm" id='contact_form' class="form-border" method="post" action='loginInput.php'>
-
-                                            <div class="field-set">
-                                                <input type='text' name='email' id='email' class="form-control" placeholder="username">
-                                            </div>
-											
-											 <div class="field-set">
-                                                <input type='password' name='password' id='password' class="form-control" placeholder="password">
-                                            </div>
-											
-											<div class="field-set">
-												<!-- <input type='submit' id='send_message' value='Submit' class="btn btn-main btn-fullwidth color-2"> -->
-                                                <input type="submit" name="contactForm" value="login" class="btn-main"/>
-											</div>
-											
-											<div class="clearfix"></div>
-											
-											<div class="spacer-single"></div>
-
-                                      
-                                        </form>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>		
             
-            </div>
-            <!-- content close -->
+            <!-- section begin -->
+            <!-- <section id="subheader" class="text-light" data-bgimage="url(images/background/subheader.jpg) top">
+                    <div class="center-y relative text-center">
+                        <div class="container">
+                            <div class="row">
+                                
+                                <div class="col-md-12 text-center">
+									<h1>Register</h1>
+									<p>Anim pariatur cliche reprehenderit</p>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+            </section> -->
+            <!-- section close -->
+         
+            <!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+ <div class="row">
+   <div class="col-sm-8">
+    <?php echo $deleteMsg??''; ?>
+    <div class="table-responsive">
+      <table class="table table-bordered">
+       <thead><tr><th>ID</th>
+         <th>Status</th>
+         <th>Tanggal</th>
+         <th>ID Pelanggan</th>
+         <th>ID Karya</th>
+    </thead>
+    <tbody>
+  <?php
+      if(is_array($fetchData)){      
+      $sn=1;
+      foreach($fetchData as $data){
+    ?>
+      <tr>
+      <td><?php echo $sn; ?></td>
+      <td><?php echo $data['T_ID']??''; ?></td>
+      <td><?php echo $data['T_STATUS']??''; ?></td>
+      <td><?php echo $data['T_TGL']??''; ?></td>
+      <td><?php echo $data['Pelanggan_P_ID']??''; ?></td>
+      <td><?php echo $data['Jasa_Karya_JK_ID']??''; ?></td>
+     </tr>
+     <?php
+      $sn++;}}else{ ?>
+      <tr>
+        <td colspan="8">
+    <?php echo $fetchData; ?>
+  </td>
+    <tr>
+    <?php
+    }?>
+    </tbody>
+     </table>
+   </div>
+</div>
+</div>
+</div>
+</body>
+</html>
 
+        <!-- content close -->
+
+        <a href="#" id="back-to-top"></a>
+        <div class="white-space">
+            
+        </div>
         <!-- footer begin -->
         <footer>
             <div class="container">
@@ -197,7 +229,7 @@
                         <div class="col-md-12">
                             <div class="de-flex">
                                 <div class="de-flex-col">
-                                    <a href="03_grey-index.php>
+                                    <a href="03_grey-index.php">
                                         <span class="copy">&copy; Create by Krei Studio</span>
                                     </a>
                                 </div>
@@ -224,9 +256,8 @@
     ================================================== -->
     <script src="js/plugins.js"></script>
     <script src="js/designesia.js"></script>
-        
 
-		
+
 </body>
 
 </html>

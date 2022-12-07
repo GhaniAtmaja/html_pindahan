@@ -35,9 +35,9 @@
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="03_grey-index.ppp>
+                                    <!-- <a href="03_grey-index-2.php">
                                         <img alt="" src="images/logo-3.png" />
-                                    </a>
+                                    </a> -->
                                 </div>
                                 <!-- logo close -->
                             </div>
@@ -49,10 +49,10 @@
                             <!-- mainmenu begin -->
                             <ul id="mainmenu">
                                 <li>
-                                    <a href="03_grey-index-2.ppp>Home<span></span></a>
+                                    <a href="03_grey-index-2.php">Home<span></span></a>
                                 </li>
                                 <li>
-                                    <a href="03_grey-explore.ppp>Explore<span></span></a>
+                                    <a href="03_grey-explore.php">Explore<span></span></a>
                                     <!-- <ul>
                                         <li><a href="03_grey-explore.ppp>Explore</a></li>
                                         <li><a href="03_grey-explore-music-nft.ppp>New: Music NFT</a></li>
@@ -63,13 +63,13 @@
                                     </ul> -->
                                 </li>
                                 <li>
-                                    <a href="03_grey-author.ppp>Author<span></span></a>
+                                    <a href="03_grey-author.php">Author<span></span></a>
                                     <ul>
-                                        <li><a href="03_grey-author.ppp>Author</a></li>
-                                        <li><a href="profile.php>Profile</a></li>
-                                        <li><a href="03_grey-wallet.php>Wallet</a></li>
-                                        <!-- <li><a href="03_grey-create-options.php>Create</a></li> -->
-                                        <li><a href="03_grey-login.php>Login</a></li>
+                                        <li><a href="03_grey-author.php">Author</a></li>
+                                        <li><a href="profile.php">Profile</a></li>
+                                        <li><a href="03_grey-wallet.php">Wallet</a></li>
+                                        <!-- <li><a href="03_grey-create-options.php">Create</a></li> -->
+                                        <li><a href="03_grey-login.php">Login</a></li>
                                     </ul>
                                 </li>                                    
                                 <!-- <li>

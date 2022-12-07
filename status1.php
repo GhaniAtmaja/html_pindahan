@@ -10,6 +10,7 @@ include("developers.php");
  <div class="row">
    <div class="col-sm-8">
     <?php echo $deleteMsg??''; ?>
+    <div class="spacer-10">
     <div class="table-responsive">
       <table class="table table-bordered">
        <thead><tr><th>ID</th>
@@ -44,6 +45,8 @@ include("developers.php");
     </tbody>
      </table>
    </div>
+    </div>
+    
 </div>
 </div>
 </div>

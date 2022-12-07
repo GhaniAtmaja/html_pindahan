@@ -107,7 +107,7 @@
                                             <h4>
                                                 <span>Monica Lucas</span>                                          
                                                 <span class="profile_username">@monicaaa</span>
-                                                <span id="wallet" class="profile_wallet">0812-5793-9524...</span>
+                                                <span id="wallet" class="profile_wallet">0812-5793-9524</span>
                                                 <button id="btn_copy" title="Copy Text">Copy</button>
                                                 <br>
                                                 <span id="wallet" class="profile_wallet">DdzFFzCqrhshMSxb9oW3mRo4MJrQkusV3fGFSTwaiu4wPBqMryA9DYVJCkW9n7twCffG5f5wX2sSkoDXGiZB1HPa7K7f865Kk4LqnrME</span>
@@ -116,14 +116,14 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="profile_follow de-flex">
+                                <!-- <div class="profile_follow de-flex">
                                     <div class="de-flex-col">
                                         <div class="profile_follower">500 followers</div>
                                     </div>
                                     <div class="de-flex-col">
                                         <a href="#" class="btn-main">Follow</a>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="">
                                     <a href="./profile.php" style="margin-right: 20px;">Edit</a>
                                     <a href="./create-single.php" class="btn-main btn-wallet"><i class="icon_wallet_alt"></i><span>Create</span></a>
@@ -134,11 +134,11 @@
                         <div class="col-md-12">
                             <div class="de_tab tab_simple">
     
-                                <ul class="de_nav">
+                                <!-- <ul class="de_nav">
                                     <li class="active"><span>On Sale</span></li>
                                     <li><span>Created</span></li>
                                     <li><span>Liked</span></li>
-                                </ul>
+                                </ul> -->
                                 
                                 <div class="de_tab_content">
                                     
@@ -190,7 +190,7 @@
                                                     </div>
                                                 </div>                 
                                                 <!-- nft item begin -->
-                                                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                                                <!-- <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
                                                         <div class="author_list_pp">
                                                             <a href="03_grey-author.php">                                    
@@ -232,11 +232,11 @@
                                                             </div>                                 
                                                         </div> 
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <!-- nft item begin -->
-                                                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                                                <!-- <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
-                                                        <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="14" data-hour="8"></div> -->
+                                                        //<div class="de_countdown" data-year="2022" data-month="12" data-day="14" data-hour="8"></div>
                                                         <div class="author_list_pp">
                                                             <a href="03_grey-author.php">                                    
                                                                 <img class="lazy" src="images/author/author-1.jpg" alt="">
@@ -277,9 +277,9 @@
                                                             </div>                                 
                                                         </div> 
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <!-- nft item begin -->
-                                                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                                                <!-- <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
                                                         <div class="author_list_pp">
                                                             <a href="03_grey-author.php">                                    
@@ -323,15 +323,15 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                    </div>
+                                    </div> -->
                                     
-                                    <div class="tab-2">
+                                    <!-- <div class="tab-2">
                                         <div class="row">
 
-                                                <!-- nft item begin -->
+                                                //nft item begin
                                                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
-                                                        <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="14" data-hour="8"></div> -->
+                                                        //<div class="de_countdown" data-year="2022" data-month="12" data-day="14" data-hour="8"></div>
                                                         <div class="author_list_pp">
                                                             <a href="03_grey-author.php">                                    
                                                                 <img class="lazy" src="images/author/author-1.jpg" alt="">
@@ -373,10 +373,10 @@
                                                         </div> 
                                                     </div>
                                                 </div>
-                                                <!-- nft item begin -->
+                                                //nft item begin
                                                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
-                                                        <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="16" data-hour="8"></div> -->
+                                                        //<div class="de_countdown" data-year="2022" data-month="12" data-day="16" data-hour="8"></div>
                                                         <div class="author_list_pp">
                                                             <a href="03_grey-author.php">                                    
                                                                 <img class="lazy" src="images/author/author-1.jpg" alt="">
@@ -418,7 +418,7 @@
                                                         </div> 
                                                     </div>
                                                 </div>                 
-                                                <!-- nft item begin -->
+                                                //nft item begin
                                                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
                                                         <div class="author_list_pp">
@@ -462,7 +462,7 @@
                                                         </div> 
                                                     </div>
                                                 </div>
-                                                <!-- nft item begin -->
+                                                //nft item begin
                                                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                                     <div class="nft__item style-2">
                                                         <div class="author_list_pp">
@@ -507,147 +507,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                    </div>
-
-                                    <div class="tab-3">
-                                        <div class="row">
-                                            <!-- nft item begin -->
-                                            <div class="col-lg-3 col-md-6">
-                                                <div class="nft__item style-2">
-                                                    <div class="author_list_pp">
-                                                        <a href="03_grey-author.php">                                    
-                                                            <img class="lazy" src="images/author/author-1.jpg" alt="">
-                                                            <i class="fa fa-check"></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_wrap">
-                                                        <a href="03_grey-item-details.php">
-                                                            <img src="images/items/anim-4.webp" class="lazy nft__item_preview" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_info">
-                                                        <a href="03_grey-item-details.php">
-                                                            <h4>The Truth</h4>
-                                                        </a>
-                                                        <div class="nft__item_click">
-                                        <span></span>
-                                    </div>
-                                    <div class="nft__item_price">
-                                                            Rp600.000
-                                                        </div>
-                                                        <div class="nft__item_action">
-                                  <a href="./03_grey-item-details.php">Click for more detail</a>
-                                                        </div>
-                                                        <div class="nft__item_like">
-                                                            <i class="fa fa-heart"></i><span>26</span>
-                                                        </div>                                 
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- nft item begin -->
-                                            <div class="col-lg-3 col-md-6">
-                                                <div class="nft__item style-2">
-                                                    <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="6" data-hour="8"></div> -->
-                                                    <div class="author_list_pp">
-                                                        <a href="03_grey-author.php">                                    
-                                                            <img class="lazy" src="images/author/author-2.jpg" alt="">
-                                                            <i class="fa fa-check"></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_wrap">
-                                                        <a href="03_grey-item-details.php">
-                                                            <img src="images/items/anim-2.webp" class="lazy nft__item_preview" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_info">
-                                                        <a href="03_grey-item-details.php">
-                                                            <h4>Running Puppets</h4>
-                                                        </a>
-                                                        <div class="nft__item_click">
-                                        <span></span>
-                                    </div>
-                                    <div class="nft__item_price">
-                                                            Rp300.000
-                                                        </div>    
-                                                        <div class="nft__item_action">
-                                  <a href="./03_grey-item-details.php">Click for more detail</a>
-                                                        </div>
-                                                        <div class="nft__item_like">
-                                                            <i class="fa fa-heart"></i><span>45</span>
-                                                        </div>                                  
-                                                    </div> 
-                                                </div>
-                                            </div>
-                                            <!-- nft item begin -->
-                                            <div class="col-lg-3 col-md-6">
-                                                <div class="nft__item style-2">
-                                                    <div class="author_list_pp">
-                                                        <a href="03_grey-author.php">                                    
-                                                            <img class="lazy" src="images/author/author-3.jpg" alt="">
-                                                            <i class="fa fa-check"></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_wrap">
-                                                        <a href="03_grey-item-details.php">
-                                                            <img src="images/items/anim-1.webp" class="lazy nft__item_preview" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_info">
-                                                        <a href="03_grey-item-details.php">
-                                                            <h4>USA Wordmation</h4>
-                                                        </a>
-                                                        <div class="nft__item_click">
-                                        <span></span>
-                                    </div>
-                                    <div class="nft__item_price">
-                                                           Rp900.000
-                                                        </div>
-                                                        <div class="nft__item_action">
-                                  <a href="./03_grey-item-details.php">Click for more detail</a>
-                                                        </div>
-                                                        <div class="nft__item_like">
-                                                            <i class="fa fa-heart"></i><span>76</span>
-                                                        </div>                                 
-                                                    </div> 
-                                                </div>
-                                            </div>
-                                            <!-- nft item begin -->
-                                            <div class="col-lg-3 col-md-6">
-                                                <div class="nft__item style-2">
-                                                    <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="8" data-hour="8"></div> -->
-                                                    <div class="author_list_pp">
-                                                        <a href="03_grey-author.php">                                    
-                                                            <img class="lazy" src="images/author/author-4.jpg" alt="">
-                                                            <i class="fa fa-check"></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_wrap">
-                                                        <a href="03_grey-item-details.php">
-                                                            <img src="images/items/anim-5.webp" class="lazy nft__item_preview" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="nft__item_info">
-                                                        <a href="03_grey-item-details.php">
-                                                            <h4>Loop Donut</h4>
-                                                        </a>
-                                                        <div class="nft__item_click">
-                                        <span></span>
-                                    </div>
-                                    <div class="nft__item_price">
-                                                            Rp900.000
-                                                        </div>
-                                                        <div class="nft__item_action">
-                                                            <a href="./03_grey-item-details.php">Click for more detail</a>
-                                                        </div>
-                                                        <div class="nft__item_like">
-                                                            <i class="fa fa-heart"></i><span>94</span>
-                                                        </div>                                 
-                                                    </div> 
-                                                </div>
-                                            </div>                                                
-                                        </div>
-                                    </div>
-                                    
+                                    </div> -->                                    
                                 </div>
                                 
                             </div>

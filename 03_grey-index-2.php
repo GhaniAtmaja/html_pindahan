@@ -183,15 +183,15 @@
 
                             <div class="spacer-single"></div>
                             
-                            <div class="row wow fadeIn"> 
+                            <!-- <div class="row wow fadeIn"> 
                                 <div class="col-lg-12">
                                     <h2 class="style-2">Recommend</h2>
                                 </div>
 
-                                <!-- nft item begin -->
+                                //nft item begin
                                 <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                     <div class="nft__item style-2">
-                                        <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="6" data-hour="8"></div> -->
+                                        //<div class="de_countdown" data-year="2022" data-month="12" data-day="6" data-hour="8"></div>
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Monica Lucas">                                    
                                                 <img class="lazy" src="images/author/author-1.jpg" alt="">
@@ -234,7 +234,7 @@
                                         </div> 
                                     </div>
                                 </div>                 
-                                <!-- nft item begin -->
+                                //nft item begin
                                 <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
@@ -279,10 +279,10 @@
                                         </div> 
                                     </div>
                                 </div>
-                                <!-- nft item begin -->
+                                //nft item begin
                                 <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                     <div class="nft__item style-2">
-                                        <!-- <div class="de_countdown id-color" data-year="2022" data-month="12" data-day="12" data-hour="8"></div> -->
+                                        //<div class="de_countdown id-color" data-year="2022" data-month="12" data-day="12" data-hour="8"></div>
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Ida Chapman">                                    
                                                 <img class="lazy" src="images/author/author-11.jpg" alt="">
@@ -325,7 +325,7 @@
                                         </div> 
                                     </div>
                                 </div>
-                                <!-- nft item begin -->
+                                //nft item begin
                                 <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
@@ -370,7 +370,7 @@
                                         </div> 
                                     </div>
                                 </div>
-                                <!-- nft item begin -->
+                                nft item begin -->
                                 <!-- <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
@@ -559,7 +559,7 @@
 
                                 <div class="spacer-double"></div>
 
-                                <div class="row">
+                                <!-- <div class="row">
                                     <div class="col-lg-12">
                                         <h2 class="style-2">Top Sellers</h2>
                                     </div>
@@ -711,7 +711,7 @@
                                             </li>
                                         </ol>
                                     </div>
-                                </div>
+                                </div> -->
                         </div>
             </section>
 

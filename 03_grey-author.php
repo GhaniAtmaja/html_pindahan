@@ -110,8 +110,8 @@
                                                 <span id="wallet" class="profile_wallet">0812-5793-9524</span>
                                                 <button id="btn_copy" title="Copy Text">Copy</button>
                                                 <br>
-                                                <span id="wallet" class="profile_wallet">DdzFFzCqrhshMSxb9oW3mRo4MJrQkusV3fGFSTwaiu4wPBqMryA9DYVJCkW9n7twCffG5f5wX2sSkoDXGiZB1HPa7K7f865Kk4LqnrME</span>
-                                                <button id="btn_copy" title="Copy Text">Copy</button>
+                                                <!-- <span id="wallet" class="profile_wallet">DdzFFzCqrhshMSxb9oW3mRo4MJrQkusV3fGFSTwaiu4wPBqMryA9DYVJCkW9n7twCffG5f5wX2sSkoDXGiZB1HPa7K7f865Kk4LqnrME</span>
+                                                <button id="btn_copy" title="Copy Text">Copy</button> -->
                                             </h4>
                                         </div>
                                     </div>

@@ -115,7 +115,7 @@
 			<section aria-label="section">
                 <div class="container">
                     <div class="row wow fadeIn">
-                        <div class="col-lg-12">
+                        <!-- <div class="col-lg-12">
 
                             <div class="items_filter">
                                 <form action="blank.php" class="row form-dark" id="form_quick_search" method="post" name="form_quick_search">
@@ -162,7 +162,7 @@
                                 </div>
 
                             </div>
-                        </div>                     
+                        </div>                      -->
                         <!-- nft item begin -->
                         <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                             <div class="nft__item style-2">
@@ -210,7 +210,7 @@
                             </div>
                         </div>                 
                         <!-- nft item begin -->
-                        <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <!-- <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                             <div class="nft__item style-2">
                                 <div class="author_list_pp">
                                     <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Stacy Long">                                    
@@ -253,9 +253,9 @@
                                     </div>                                 
                                 </div> 
                             </div>
-                        </div>
+                        </div> -->
                         <!-- nft item begin -->
-                        <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <!-- <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                             <div class="nft__item style-2">
                                 <!-- <div class="de_countdown" data-year="2022" data-month="12" data-day="14" data-hour="8"></div> -->
                                 <div class="author_list_pp">
@@ -299,9 +299,9 @@
                                     </div>                                 
                                 </div> 
                             </div>
-                        </div>
+                        </div> -->
                         <!-- nft item begin -->
-                        <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <!-- <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                             <div class="nft__item style-2">
                                 <div class="author_list_pp">
                                     <a href="03_grey-author.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Creator: Fred Ryan">                                    
@@ -344,7 +344,7 @@
                                     </div>                                 
                                 </div> 
                             </div>
-                        </div>
+                        </div> -->
                         <!-- nft item begin -->
                         <!-- <div class="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12">
                             <div class="nft__item style-2">
